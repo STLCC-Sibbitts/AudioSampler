@@ -1,0 +1,7 @@
+Pad class
+attributes:
+-audio file (location)
+-pad color
+-boolean for each effect (on/off)
+  * instance of each effect class associated with the pad
+-keystroke trigger
